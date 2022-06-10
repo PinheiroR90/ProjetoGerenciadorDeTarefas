@@ -1,0 +1,23 @@
+.task-container {
+    background-color: #0e0e50;
+    margin: 8px 0;
+    padding: 15px 20px;
+    display: flex;
+    border-radius: 18px;
+    justify-content: space-between;
+    color: bisque;
+    align-items: center;
+}
+.task-title{
+    cursor: pointer;
+}
+.remove-task-button{
+    background-color: #0e0e50;
+    border: none;
+    font-size: 17px;
+    color: rgb(25, 17, 131);
+    cursor: pointer;
+}
+.remove-task-button:hover{
+    color: firebrick;
+}
