@@ -21,3 +21,13 @@
 .remove-task-button:hover{
     color: firebrick;
 }
+.see-task-details-button{
+    background-color: #0e0e50;
+    border: none;
+    font-size: 17px;
+    color: rgb(25, 17, 131);
+    cursor: pointer;
+}
+.see-task-details-button:hover{
+    color:#1bcf33;
+}
